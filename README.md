@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m Jaurès Ratsimbazafiharivola (**Matrix Tera**)
 - 🌱 I’m currently working on artificial intelligence 
-- 💬 Ask me about PHP Framework (Symfony, CodeIgniter, CakePHP), Javascript(client, server side)
+- 💬 Ask me about PHP Framework (Symfony, CodeIgniter, CakePHP), Javascript (client, server side)
 - 📫 How to reach me: anpproba@gmail.com
 
 <!--
