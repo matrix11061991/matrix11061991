@@ -4,17 +4,12 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=matrix11061991&label=Profile%20views&color=0e75b6&style=flat" alt="matrix11061991" /> 
 </p>
-<table style="width:100%; border-collapse:collapse;" align="center">
-  <tr>
-    <td>
-    	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matrix11061991&show_icons=true&locale=en&layout=compact"   alt="matrix11061991"/>
-    </td>
-    <td>
-    	<img align="center" src="https://github-readme-stats.vercel.app/api?username=matrix11061991&show_icons=true&locale=en" alt="matrix11061991"/>	</td>
-    <td>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matrix11061991&" alt="matrix11061991" /></td>
-  </tr>
-</table>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matrix11061991&" alt="matrix11061991" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=matrix11061991&show_icons=true&locale=en" alt="matrix11061991"/> </td>
+</p>
+
+
 - 🔭 I’m currently working on **Symfony Project**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
