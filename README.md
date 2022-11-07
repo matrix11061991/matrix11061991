@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaurès Ratsimbazafiharivola (Matrix Tera)</h1>
+<h1 align="center">Hi 👋, I'm Jaurès Ratsimbazafiharivola [Matrix Tera]</h1>
 <h3 align="center">A passionate backend developer from Madagascar</h3>
 
 <p align="center"> 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **unsupervised learning algorithms**
+- 👯 I’m looking to collaborate on **unsupervised learning**
 
 - 💬 Ask me about **Javascript client or server side - PHP Framework (Symfony, CodeIgniter, CakePHP)**
 
