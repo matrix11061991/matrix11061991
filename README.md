@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matrix11061991&" alt="matrix11061991" height="150" width="450"/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matrix11061991&show_icons=true&locale=en" alt="matrix11061991" height="150" width="450"/> </td>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matrix11061991&" alt="matrix11061991" height="150" width="400"/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matrix11061991&show_icons=true&locale=en" alt="matrix11061991" height="150" width="400"/> </td>
 </p>
 
 
