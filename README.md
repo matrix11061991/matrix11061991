@@ -22,20 +22,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/jaures ratsimbazafiharivola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaures ratsimbazafiharivola" height="25" width="30" /></a>
-  <a href="https://fb.com/jaures ratsimbazafiharivola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaures ratsimbazafiharivola" height="25" width="30" /></a>
-  <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0m2macp3j8pbuo4xw9zzka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0m2macp3j8pbuo4xw9zzka" height="25" width="30" /></a>
+  <a href="https://linkedin.com/in/jaures ratsimbazafiharivola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaures ratsimbazafiharivola" height="25" width="25" /></a>
+  <a href="https://fb.com/jaures ratsimbazafiharivola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaures ratsimbazafiharivola" height="25" width="25" /></a>
+  <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0m2macp3j8pbuo4xw9zzka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0m2macp3j8pbuo4xw9zzka" height="25" width="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools 🛠:</h3>
 <p align="center"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>     </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="25" height="25"/>     </a> 
   <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="25" height="25"/> 
   </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="25" height="40"/> 
   </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
