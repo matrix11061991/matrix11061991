@@ -9,17 +9,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matrix11061991&" alt="matrix11061991" height="150" width="400"/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matrix11061991&show_icons=true&locale=en" alt="matrix11061991" height="150" width="400"/> </td>
 </p>
 
-
-- 🔭 I’m currently working on **Symfony Project** 💻
-
-- 🌱 I’m currently learning **Artificial Intelligence** 🖱
-
-- 👯 I’m looking to collaborate on **unsupervised learning** 👊
-
-- 💬 Ask me about **Javascript client or server side - PHP Framework (Symfony, CodeIgniter, CakePHP)** ★
-
-- 📫 How to reach me **anpproba@gmail.com** ✉
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/jaures ratsimbazafiharivola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaures ratsimbazafiharivola" height="25" width="25" /></a>
