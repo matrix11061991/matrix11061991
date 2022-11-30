@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Javascript client or server side - PHP Framework (Symfony, CodeIgniter, CakePHP)** ★
 
-- 📫 How to reach me **anpproba@gmail.com** 📧
+- 📫 How to reach me **anpproba@gmail.com** ✉
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
