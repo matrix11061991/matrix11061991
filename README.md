@@ -3,7 +3,9 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=matrix11061991&label=Profile%20views&color=0e75b6&style=flat" alt="matrix11061991" /> 
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="matrix11061991" height="21" width="150"/>
+  <a href="https://www.buymeacoffee.com/MatrixTera">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="matrix11061991" height="21" width="150"/>
+  </a>
 </p>
 
 <p align="center">
